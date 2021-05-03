@@ -1,0 +1,17 @@
+//This file you will create your variables inside of the project
+
+:root {
+  --primary-color: #fe5f00;
+  --primary-color-light: #988f2a;
+  --secondary-color: #23231a;
+  --primary-color-dark: #322F20;
+  --secondary-color-dark: #6a5837;
+
+  --color-black: #000;
+  --color-white: #fff;
+
+  --bg-color: #9fd2d2;
+}
+
+$gradient: linear-gradient(0deg, rgba(159, 210, 210, 1) 0%, rgba(253, 187, 45, 1) 100%);
+

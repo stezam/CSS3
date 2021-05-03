@@ -1,0 +1,25 @@
+//This file is for create your style with relation on space of navbar
+.navbar{
+  background: var(--primary-color);
+  color:var(--color-white);
+  height:30px;
+}
+
+.navbar .flex{
+  justify-content: flex-end;
+
+}
+ul{
+  display:flex;
+
+}
+ul a {
+  padding: 5px;
+  margin:0 5px;
+  color:var(--color-white);
+  text-transform: uppercase;
+}
+ul a:hover{
+  border:none;
+  color:var(--primary-color-dark);
+}
