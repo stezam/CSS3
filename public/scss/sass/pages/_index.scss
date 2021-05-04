@@ -1,5 +1,4 @@
 .showcase{
-<<<<<<< HEAD
   padding:5rem 0;  
   color:var(--color-white);
   background-image:linear-gradient(to right bottom,
@@ -29,23 +28,4 @@
   width:50px;
   height:50px;
   box-shadow: 0px 1px 3px rgba(0,0,0,0.8);
-=======
-  color:var(--color-white);
-  font-weight:600;
-  padding-top:10px;
-  height: 250px;
-  background-image:linear-gradient(to right bottom,
-  rgba(0,0,0,.2),
-  rgba(0,0,0,.4)),
-  url('/public/images/1.jpg');
-  background-size:cover;
-  background-position: center;
-}
-
-.showcase h1{
-  font-size:25px;
-}
-.showcase .flex{
-  justify-content: space-around;
->>>>>>> 868150e73ccc7928350463b2a33d6bda41e79fec
 }
