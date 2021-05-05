@@ -29,3 +29,16 @@
   height:50px;
   box-shadow: 0px 1px 3px rgba(0,0,0,0.8);
 }
+.search-content{
+  width:60vw;
+  color:white;
+  padding:3rem;
+  box-shadow:0 0 3em rgba(0,0,0,0.15);
+}
+.search-bar{
+  border:2px solid red;
+  display:flex;
+  &__input{
+    flex:grow;
+  }
+}
